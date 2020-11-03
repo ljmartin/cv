@@ -56,6 +56,13 @@ Supporting Publications
 2018
 :   Akhavan, Behnam, et al. "Plasma activated coatings with dual action against fungi and bacteria." Applied Materials Today 12 (2018): 72-84.
 
+Qualifications
+---------
+2018
+:    PhD, School of Physics, Faculty of Science, University of Sydney
+
+2013
+:   BSc. Hons. 1st class, Research School of Biology, Australian National University
 
 Prizes and Presentations
 -------
@@ -63,12 +70,12 @@ Prizes and Presentations
 2019
 :    *Predictive modelling of cannabinoid-protein interactions with machine learning and molecular dynamics*
 
-     Presentation at the annual Brain and Mind Centre symposium
+     Featured postdoc presentation at the annual Brain and Mind Centre symposium
 
 2018
 :   *Canon Information Systems Research Australia (CiSRA) prize*
 
-    Awarded to the postgraduate student producing the best refereed publication in a leading internation journal
+    Awarded to the postgraduate student producing the best refereed publication in a leading international journal
 
 Teaching and education
 -------
@@ -77,4 +84,4 @@ Teaching and education
 :    *Predicting novel drug-protein interactions using recommender systems from Netflix*
 
      A one semester coding project for a Masters of Neuroscience student who was interested in
-     psychpharmacology. (Manuscript in preparation)
+     psychopharmacology. (Manuscript in preparation)
